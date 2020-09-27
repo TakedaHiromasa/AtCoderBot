@@ -24,20 +24,6 @@
     ],
     "upcoming": [
         {
-            "start_ditetime": "2019-04-13 21:00:00+0900",
-            "title": "AtCoder Beginner Contest 124",
-            "duration": "01:40",
-            "rated": " ~ 1199",
-            "url": "/contests/abc124"
-        },
-        {
-            "start_ditetime": "2019-04-14 20:00:00+0900",
-            "title": "square869120Contest #6",
-            "duration": "04:00",
-            "rated": "-",
-            "url": "/contests/s8pc-6"
-        },
-        {
             "start_ditetime": "2019-04-20 21:00:00+0900",
             "title": "Tenka1 Programmer Contest 2019",
             "duration": "01:40",
@@ -60,6 +46,20 @@
         }
     ],
     "recent": [
+        {
+            "start_ditetime": "2019-04-14 20:00:00+0900",
+            "title": "square869120Contest #6",
+            "duration": "04:00",
+            "rated": "-",
+            "url": "/contests/s8pc-6"
+        },
+        {
+            "start_ditetime": "2019-04-13 21:00:00+0900",
+            "title": "AtCoder Beginner Contest 124",
+            "duration": "01:40",
+            "rated": " ~ 1199",
+            "url": "/contests/abc124"
+        },
         {
             "start_ditetime": "2019-04-06 21:00:00+0900",
             "title": "AtCoder Beginner Contest 123",
@@ -395,20 +395,6 @@
             "duration": "01:30",
             "rated": "-",
             "url": "/contests/ddcc2019-qual"
-        },
-        {
-            "start_ditetime": "2018-11-17 18:10:00+0900",
-            "title": "Code Festival Team Relay (Parallel)",
-            "duration": "01:30",
-            "rated": "-",
-            "url": "/contests/cf18-relay-open"
-        },
-        {
-            "start_ditetime": "2018-11-17 09:30:00+0900",
-            "title": "CODE FESTIVAL 2018 Final (Parallel)",
-            "duration": "03:00",
-            "rated": "-",
-            "url": "/contests/code-festival-2018-final-open"
         }
     ]
 }
